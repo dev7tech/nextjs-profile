@@ -2,21 +2,15 @@ import { BsFillEnvelopeOpenFill, BsGithub, BsLinkedin } from "react-icons/bs";
 
 export const SOCIAL_MEDIA = [
 	{
-		id: "linkedin",
-		icon: <BsLinkedin />,
-		title: "Visit LinkedIn profile",
-		url: "https://www.linkedin.com/in/vasile-novatchii"
-	},
-	{
 		id: "github",
 		icon: <BsGithub />,
 		title: "Visit Github profile",
-		url: "https://github.com/Infvyr"
+		url: "https://github.com/jacob647548"
 	},
 	{
 		id: "mail",
 		icon: <BsFillEnvelopeOpenFill />,
-		title: "Send me an email",
-		url: "mailto://vnovatchi@gmail.com"
+		title: "Mail to Jacob",
+		url: "mailto://jacob.devtech102@gmail.com"
 	}
 ];

@@ -25,30 +25,35 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Vasile. I successfully graduated Technical University of Moldova, computer
-							science faculty.
+							My name is Jacob a fullstack and blockchain developer with extensive experience of
+							building and maintaing blockchain based applications.
 						</p>
+						<p>Proficient in both frontend and backend technologies.</p>
 						<p>
-							During my university years, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
+							With my skills in languages like JavaScript, Python, and frameworks such as React,
+							Django, and Express.js, I've successfully delivered robust and scalable applications.
 						</p>
-						<p>So, officially, my programming journey began in 2017 as a WordPress developer.</p>
-						<p className="my-3.5">
-							I enjoy learning technologies that interest me, which is why I dedicated a significant
-							amount of time to working with WordPress.
-						</p>
-						<p>
-							One day, I decided to try something new, and I started learning React. I was so
-							excited to see how fast I can build a website with it, and how easy it is to maintain
-							it. Consequently, I quickly learnt Next.js and I used it to build some company
-							projects working in a team with a backend dev.
-						</p>
-						<p className="my-3.5">
-							In december 2023, I had an opportunity to start working as a React developer for a
-							company with the possibility of transitioning to mobile development. I was skeptical
-							about it at first, but I decided to give it a try, and I don&lsquo;t regret it. Now, I
-							thoroughly enjoy working with Flutter and Dart.
-						</p>
+						<div className="my-3.5">
+							<p>
+								Enthusiastic about innovative protocols like Bitcoin Ordinals, Runes Protocol, and
+								PSBT.
+							</p>
+							<p>
+								Proficient in deploying diverse DeFi ventures, from Decentralized Exchanges to Yield
+								Farming platforms.
+							</p>
+							<p>
+								Skilled in Solidity, JavaScript, and Python, with a deep understanding of blockchain
+								platforms such as Ethereum, Hyperledger, and Corda.
+							</p>
+						</div>
+						<div className="my-3.5">
+							<p>
+								Outside of work I keep myself fit and active: doing exercise, watching movies,
+								playing computer games ...
+							</p>
+							<p>I always take my responsibility of my own professional development.</p>
+						</div>
 					</div>
 				</div>
 
